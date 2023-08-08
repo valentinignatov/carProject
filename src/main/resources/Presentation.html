@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+function myFunction() {
+    document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+function myFunction2() {
+<!--document.getElementById("demo").innerHTML = "Hello world.";-->
+
+<!--const url = 'http://localhost:8080/api/car/1';-->
+
+<!--let response = fetch(url, { mode: 'no-cors' });-->
+
+    var xhttp = new XMLHttpRequest();
+
+    xhttp.open("GET", "http://localhost:8080/api/car/1", true);
+    xhttp.send();
+
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            var myArr = JSON.parse(this.responseText);
+
+            var id = myArr.id;
+            var offerType = myArr.offerType;
+            var authorType = myArr.authorType;
+            var condition = myArr.condition;
+            var model = myArr.model;
+            var negotiable = myArr.negotiable;
+            var price = myArr.price;
+            var regYear = myArr.regYear;
+            var registration = myArr.registration;
+            var image = myArr.image;
+
+            myFunction(myArr);
+            document.getElementById("demo2").innerHTML = this.responseText;
+        }
+};
+
+}
+</script>
+</head>
+
+<body>
+
+<h1>A Web Page</h1>
+<p id="demo">A Paragraph</p>
+
+<p id="demo2">A Paragraph</p>
+<button type="button" onclick="myFunction()">Try it</button>
+
+<button type="button" onclick="myFunction2()">Make request</button>
+
+<p id="demo3">A Paragraph</p>
+
+<button type="button" onclick="myFunction2()">Make reques 22t</button>
+
+</body>
+</html>

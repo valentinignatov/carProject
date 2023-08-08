@@ -1,0 +1,1155 @@
+http://localhost:8080/api/car/parametrization/addNewModel
+
+[
+    {
+        "modelName":"Dacia"
+    },
+    {
+        "modelName":"Opel"
+    },
+    {
+        "modelName":"Skoda"
+    },
+    {
+        "modelName":"Toyota"
+    },
+    {
+        "modelName":"Audi"
+    },
+    {
+        "modelName":"Volkswagen"
+    },
+    {
+        "modelName":"Chevrolet"
+    },
+    {
+        "modelName":"Citroen"
+    },
+    {
+        "modelName":"Fiat"
+    },
+    {
+        "modelName":"Ford"
+    },
+    {
+        "modelName":"Honda"
+    },
+    {
+        "modelName":"Mazda"
+    },
+    {
+        "modelName":"Mitsubishi"
+    },
+    {
+        "modelName":"Subaru"
+    },
+    {
+        "modelName":"Suzuki"
+    },
+    {
+        "modelName":"Volvo"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e1
+[
+    {
+        "subname":"Astra"
+    },
+    {
+        "subname":"Corsa"
+    },
+    {
+        "subname":"Kadett"
+    },
+    {
+        "subname":"Omega"
+    },
+    {
+        "subname":"Vectra"
+    },
+    {
+        "subname":"Zafira"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e0
+[
+    {
+        "subname":"Dokker"
+    },
+    {
+        "subname":"Dokker VAN"
+    },
+    {
+        "subname":"Duster"
+    },
+    {
+        "subname":"Lodgy"
+    },
+    {
+        "subname":"Logan"
+    },
+    {
+        "subname":"Logan MCV"
+    },
+    {
+        "subname":"Logan VAN"
+    },
+    {
+        "subname":"Sandero"
+    },
+    {
+        "subname":"Sandero Stepway"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e2
+[
+    {
+        "subname":"Fabia"
+    },
+    {
+        "subname":"Fabia RS"
+    },
+    {
+        "subname":"Karoq"
+    },
+    {
+        "subname":"Kodiaq"
+    },
+    {
+        "subname":"Octavia"
+    },
+    {
+        "subname":"Octavia RS"
+    },
+    {
+        "subname":"Rapid"
+    },
+    {
+        "subname":"Scala"
+    },
+    {
+        "subname":"Superb"
+    },
+    {
+        "subname":"Yeti"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e3
+[
+    {
+        "subname":"4-Runner"
+    },
+    {
+        "subname":"Auris"
+    },
+    {
+        "subname":"Avalon"
+    },
+    {
+        "subname":"Avensis"
+    },
+    {
+        "subname":"Avensis Verso"
+    },
+    {
+        "subname":"Aygo"
+    },
+    {
+        "subname":"C-HR"
+    },
+    {
+        "subname":"Camry"
+    },
+    {
+        "subname":"Carina"
+    },
+    {
+        "subname":"Celica"
+    },
+    {
+        "subname":"Corolla"
+    },
+    {
+        "subname":"Corolla Verso"
+    },
+    {
+        "subname":"Crown"
+    },
+    {
+        "subname":"Echo"
+    },
+    {
+        "subname":"FJ Cruiser"
+    },
+    {
+        "subname":"GT86"
+    },
+    {
+        "subname":"Highlander"
+    },
+    {
+        "subname":"Hilux"
+    },
+    {
+        "subname":"Land Cruiser"
+    },
+    {
+        "subname":"Land Cruiser Prado"
+    },
+    {
+        "subname":"Picnic"
+    },
+    {
+        "subname":"Prius"
+    },
+    {
+        "subname":"Prius Plus"
+    },
+    {
+        "subname":"Prius Prime"
+    },
+    {
+        "subname":"Prius C"
+    },
+    {
+        "subname":"Rav 4"
+    },
+    {
+        "subname":"Sequoia"
+    },
+    {
+        "subname":"Solara"
+    },
+    {
+        "subname":"Supra"
+    },
+    {
+        "subname":"Tacoma"
+    },
+    {
+        "subname":"Tundra"
+    },
+    {
+        "subname":"Urban Cruiser"
+    },
+    {
+        "subname":"Yaris"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e4
+[
+    {
+        "subname":"80"
+    },
+    {
+        "subname":"90"
+    },
+    {
+        "subname":"100"
+    },
+    {
+        "subname":"200"
+    },
+    {
+        "subname":"A1"
+    },
+    {
+        "subname":"A2"
+    },
+    {
+        "subname":"A3"
+    },
+    {
+        "subname":"A3 e-tron"
+    },
+    {
+        "subname":"A4"
+    },
+    {
+        "subname":"A5"
+    },
+    {
+        "subname":"A6"
+    },
+    {
+        "subname":"A7"
+    },
+    {
+        "subname":"A8"
+    },
+    {
+        "subname":"Allroad"
+    },
+    {
+        "subname":"Cabrio"
+    },
+    {
+        "subname":"Coupe"
+    },
+    {
+        "subname":"E-tron Sportback"
+    },
+    {
+        "subname":"Q3"
+    },
+    {
+        "subname":"Q5"
+    },
+    {
+        "subname":"Q7"
+    },
+    {
+        "subname":"Q7 e-tron"
+    },
+    {
+        "subname":"Q8"
+    },
+    {
+        "subname":"Quattro"
+    },
+    {
+        "subname":"R8"
+    },
+    {
+        "subname":"RS7"
+    },
+    {
+        "subname":"TT"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e5
+[
+    {
+        "subname":"Amarok"
+    },
+    {
+        "subname":"Arteon"
+    },
+    {
+        "subname":"Beetle"
+    },
+    {
+        "subname":"Bora"
+    },
+    {
+        "subname":"Caddy"
+    },
+    {
+        "subname":"Caravelle"
+    },
+    {
+        "subname":"Corrado"
+    },
+    {
+        "subname":"Eos"
+    },
+    {
+        "subname":"Fox"
+    },
+    {
+        "subname":"Golf"
+    },
+    {
+        "subname":"Golf Plus"
+    },
+    {
+        "subname":"Jetta"
+    },
+    {
+        "subname":"Lupo"
+    },
+    {
+        "subname":"Multivan"
+    },
+    {
+        "subname":"New Bettle"
+    },
+    {
+        "subname":"Passat"
+    },
+    {
+        "subname":"Passat CC"
+    },
+    {
+        "subname":"Phaeton"
+    },
+    {
+        "subname":"Polo"
+    },
+    {
+        "subname":"Scirocco"
+    },
+    {
+        "subname":"Sharan"
+    },
+    {
+        "subname":"Tiguan"
+    },
+    {
+        "subname":"Touareg"
+    },
+    {
+        "subname":"Touran"
+    },
+    {
+        "subname":"Transporter"
+    },
+    {
+        "subname":"Vento"
+    },
+    {
+        "subname":"Up!"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e6
+[
+    {
+        "subname":"Avalanche"
+    },
+    {
+        "subname":"Aveo"
+    },
+    {
+        "subname":"Blazer"
+    },
+    {
+        "subname":"Bolt"
+    },
+    {
+        "subname":"Camaro"
+    },
+    {
+        "subname":"Caprice"
+    },
+    {
+        "subname":"Captiva"
+    },
+    {
+        "subname":"Chery Van"
+    },
+    {
+        "subname":"Corvette"
+    },
+    {
+        "subname":"Cruze"
+    },
+    {
+        "subname":"Epica"
+    },
+    {
+        "subname":"Equinox"
+    },
+    {
+        "subname":"Evanda"
+    },
+    {
+        "subname":"HHR"
+    },
+    {
+        "subname":"Impala"
+    },
+    {
+        "subname":"Kalos"
+    },
+    {
+        "subname":"Lacetti"
+    },
+    {
+        "subname":"Lumina"
+    },
+    {
+        "subname":"Malibu"
+    },
+    {
+        "subname":"Matiz"
+    },
+    {
+        "subname":"Niva"
+    },
+    {
+        "subname":"Orlando"
+    },
+    {
+        "subname":"Silverado"
+    },
+    {
+        "subname":"Sonic"
+    },
+    {
+        "subname":"Spark"
+    },
+    {
+        "subname":"Suburban"
+    },
+    {
+        "subname":"Tahoe"
+    },
+    {
+        "subname":"Tracer"
+    },
+    {
+        "subname":"Trailblazer"
+    },
+    {
+        "subname":"Trax"
+    },
+    {
+        "subname":"Volt"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e7
+[
+    {
+        "subname":"Ax"
+    },
+    {
+        "subname":"Bx"
+    },
+    {
+        "subname":"Berlingo"
+    },
+    {
+        "subname":"C-Crosser"
+    },
+    {
+        "subname":"C-Elysee"
+    },
+    {
+        "subname":"C-Zero"
+    },
+    {
+        "subname":"C1"
+    },
+    {
+        "subname":"C2"
+    },
+    {
+        "subname":"C3"
+    },
+    {
+        "subname":"C3 Picasso"
+    },
+    {
+        "subname":"C4"
+    },
+    {
+        "subname":"C4 Aircross"
+    },
+    {
+        "subname":"C4 Cactus"
+    },
+    {
+        "subname":"C4 Picasso"
+    },
+    {
+        "subname":"C5"
+    },
+    {
+        "subname":"C5 Aircross"
+    },
+    {
+        "subname":"C6"
+    },
+    {
+        "subname":"C8"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e8
+[
+    {
+        "subname":"500"
+    },
+    {
+        "subname":"500L"
+    },
+    {
+        "subname":"500X"
+    },
+    {
+        "subname":"Albea"
+    },
+    {
+        "subname":"Brava"
+    },
+    {
+        "subname":"Bravo"
+    },
+    {
+        "subname":"Cinquecento"
+    },
+    {
+        "subname":"Coupe"
+    },
+    {
+        "subname":"Croma"
+    },
+    {
+        "subname":"Doblo Cargo"
+    },
+    {
+        "subname":"Doblo Panorama"
+    },
+    {
+        "subname":"Fullback"
+    },
+    {
+        "subname":"Fiorino"
+    },
+    {
+        "subname":"Grande Punto"
+    },
+    {
+        "subname":"Grande Punto 5D"
+    },
+    {
+        "subname":"Idea"
+    },
+    {
+        "subname":"Panda"
+    },
+    {
+        "subname":"Punto"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521e9
+[
+    {
+        "subname":"Aerossxtar"
+    },
+    {
+        "subname":"B-Max"
+    },
+    {
+        "subname":"C-Max"
+    },
+    {
+        "subname":"Capri"
+    },
+    {
+        "subname":"Cougar"
+    },
+    {
+        "subname":"Courier"
+    },
+    {
+        "subname":"Crown"
+    },
+    {
+        "subname":"EcoSport"
+    },
+    {
+        "subname":"Edge"
+    },
+    {
+        "subname":"Escape"
+    },
+    {
+        "subname":"Escort"
+    },
+    {
+        "subname":"Excursion"
+    },
+    {
+        "subname":"Expedition"
+    },
+    {
+        "subname":"Explorer"
+    },
+    {
+        "subname":"F-150"
+    },
+    {
+        "subname":"F-250"
+    },
+    {
+        "subname":"Fiesta"
+    },
+    {
+        "subname":"Fiesta 3D"
+    },
+    {
+        "subname":"Fiesta 5D"
+    },
+    {
+        "subname":"Focus"
+    },
+    {
+        "subname":"Focus RS"
+    },
+    {
+        "subname":"Focus Wagon"
+    },
+    {
+        "subname":"Fusion"
+    },
+    {
+        "subname":"Galaxy"
+    },
+    {
+        "subname":"Granada"
+    },
+    {
+        "subname":"Grand C-MAX"
+    },
+    {
+        "subname":"Ka"
+    },
+    {
+        "subname":"Kuga"
+    },
+    {
+        "subname":"Maverick"
+    },
+    {
+        "subname":"Mondeo"
+    },
+    {
+        "subname":"Mustang"
+    },
+    {
+        "subname":"orion"
+    },
+    {
+        "subname":"Probe"
+    },
+    {
+        "subname":"Puma"
+    },
+    {
+        "subname":"Ranger"
+    },
+    {
+        "subname":"S-Max"
+    },
+    {
+        "subname":"Scorpio"
+    },
+    {
+        "subname":"Sierra"
+    },
+    {
+        "subname":"Taurus"
+    },
+    {
+        "subname":"Thunderbird"
+    },
+    {
+        "subname":"Transit Connect"
+    },
+    {
+        "subname":"Transit Courier"
+    },
+    {
+        "subname":"Windstar"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521ea
+[
+    {
+        "subname":"Accord"
+    },
+    {
+        "subname":"Airwave"
+    },
+    {
+        "subname":"CR-V"
+    },
+    {
+        "subname":"CR-Z"
+    },
+    {
+        "subname":"CRX"
+    },
+    {
+        "subname":"City"
+    },
+    {
+        "subname":"City"
+    },
+    {
+        "subname":"Civic"
+    },
+    {
+        "subname":"Clarity"
+    },
+    {
+        "subname":"Concerto"
+    },
+    {
+        "subname":"Crosstour"
+    },
+    {
+        "subname":"Element"
+    },
+    {
+        "subname":"FR-V"
+    },
+    {
+        "subname":"HR-V"
+    },
+    {
+        "subname":"Insight"
+    },
+    {
+        "subname":"Integra"
+    },
+    {
+        "subname":"Jazz"
+    },
+    {
+        "subname":"Legend"
+    },
+    {
+        "subname":"Logo"
+    },
+    {
+        "subname":"Nsx"
+    },
+    {
+        "subname":"Odyssey"
+    },
+    {
+        "subname":"Pilot"
+    },
+    {
+        "subname":"Prelude"
+    },
+    {
+        "subname":"Quint"
+    },
+    {
+        "subname":"Ridgeline"
+    },
+    {
+        "subname":"S2000"
+    },
+    {
+        "subname":"Shuttle"
+    },
+    {
+        "subname":"Stream"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521eb
+[
+    {
+        "subname":"2"
+    },
+    {
+        "subname":"3"
+    },
+    {
+        "subname":"5"
+    },
+    {
+        "subname":"6"
+    },
+    {
+        "subname":"121"
+    },
+    {
+        "subname":"323"
+    },
+    {
+        "subname":"626"
+    },
+    {
+        "subname":"929"
+    },
+    {
+        "subname":"BT-50"
+    },
+    {
+        "subname":"CX-3"
+    },
+    {
+        "subname":"CX-7"
+    },
+    {
+        "subname":"CX-9"
+    },
+    {
+        "subname":"Demio"
+    },
+    {
+        "subname":"MPV"
+    },
+    {
+        "subname":"MX-3"
+    },
+    {
+        "subname":"MX-30"
+    },
+    {
+        "subname":"MX-5"
+    },
+    {
+        "subname":"MX-6"
+    },
+    {
+        "subname":"Premacy"
+    },
+    {
+        "subname":"RX-6"
+    },
+    {
+        "subname":"RX-7"
+    },
+    {
+        "subname":"RX-8"
+    },
+    {
+        "subname":"Miata"
+    },
+    {
+        "subname":"Tribute"
+    },
+    {
+        "subname":"Xedos"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521ed
+[
+    {
+        "subname":"3000GT"
+    },
+    {
+        "subname":"ASX"
+    },
+    {
+        "subname":"Attrage"
+    },
+    {
+        "subname":"Colt"
+    },
+    {
+        "subname":"Eclipse"
+    },
+    {
+        "subname":"Eclipse Cross"
+    },
+    {
+        "subname":"Galant"
+    },
+    {
+        "subname":"Grandis"
+    },
+    {
+        "subname":"L"
+    },
+    {
+        "subname":"Lancer"
+    },
+    {
+        "subname":"Mirage"
+    },
+    {
+        "subname":"Montero Sport"
+    },
+    {
+        "subname":"Outlander"
+    },
+    {
+        "subname":"Pajero"
+    },
+    {
+        "subname":"Pajero Pinin"
+    },
+    {
+        "subname":"Pajero Sport"
+    },
+    {
+        "subname":"Sigma"
+    },
+    {
+        "subname":"Space Gear"
+    },
+    {
+        "subname":"Space Runner"
+    },
+    {
+        "subname":"Space Star"
+    },
+    {
+        "subname":"Space Wagon"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521ed
+[
+    {
+        "subname":"B9 Tribeca"
+    },
+    {
+        "subname":"BRZ"
+    },
+    {
+        "subname":"Crosstrek"
+    },
+    {
+        "subname":"Forester"
+    },
+    {
+        "subname":"Impreza"
+    },
+    {
+        "subname":"Legacy"
+    },
+    {
+        "subname":"Outback"
+    },
+    {
+        "subname":"Trezia"
+    },
+    {
+        "subname":"WRX"
+    },
+    {
+        "subname":"WRX STI"
+    },
+    {
+        "subname":"XV"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521ee
+[
+    {
+        "subname":"Aerio"
+    },
+    {
+        "subname":"Alto"
+    },
+    {
+        "subname":"Baleno"
+    },
+    {
+        "subname":"Grand Vitara"
+    },
+    {
+        "subname":"Ignis"
+    },
+    {
+        "subname":"Jimmy"
+    },
+    {
+        "subname":"Liana"
+    },
+    {
+        "subname":"S-Cross"
+    },
+    {
+        "subname":"SX4"
+    },
+    {
+        "subname":"Samurai"
+    },
+    {
+        "subname":"Splash"
+    },
+    {
+        "subname":"Swift"
+    },
+    {
+        "subname":"Vitara"
+    },
+    {
+        "subname":"Wagon R+"
+    },
+    {
+        "subname":"XL-7"
+    }
+]
+
+
+http://localhost:8080/api/car/parametrization/addNewSubModel?modelId=61fa9610e4fe9868824521ef
+[
+    {
+        "subname":"400 Series"
+    },
+    {
+        "subname":"700 Series"
+    },
+    {
+        "subname":"800 Series"
+    },
+    {
+        "subname":"900 Series"
+    },
+    {
+        "subname":"C30"
+    },
+    {
+        "subname":"C70"
+    },
+    {
+        "subname":"S40"
+    },
+    {
+        "subname":"S60"
+    },
+    {
+        "subname":"S70"
+    },
+    {
+        "subname":"S80"
+    },
+    {
+        "subname":"S90"
+    },
+    {
+        "subname":"V40"
+    },
+    {
+        "subname":"V50"
+    },
+    {
+        "subname":"V60"
+    },
+    {
+        "subname":"V70"
+    },
+    {
+        "subname":"V90"
+    },
+    {
+        "subname":"XC40"
+    },
+    {
+        "subname":"XC60"
+    },
+    {
+        "subname":"XC70"
+    },
+    {
+        "subname":"XC90"
+    }
+]

@@ -1,0 +1,23 @@
+Install mongo
+    install mongo
+    add path C:\\data\\db\\
+
+How to start mongo
+    cmd
+    cd C:\Program Files\MongoDB\Server\4.4\bin
+    mongod
+
+cd C:\Program Files\MongoDB\Server\4.4\bin
+    mongo
+    show dbs
+
+> use mydb
+
+> show collections
+
+> db.getCollectionInfos();
+
+> db.car.find()
+
+> db.car.find().pretty()
+
